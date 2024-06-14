@@ -1,6 +1,7 @@
 Opis Projektu widzetu tag toolbar
 Rozumiem,ze to miala byc wersja produkcyjna jednak zrobilem wszystko co w mojej mocy aby dostarczyc dzialajce rozwiazanie. Ponizej kilka uwag
 
+NAJWAZNIEJSZY BRAK - widok mobilny
 BRAKI - brakuje dużo testow, z uwagi na brak czasu nie udalo sie napisac wszystkiego, brakuje rowniez przechowywania stanu
 UI - do poprawy, z uwagi na ograniczony (bardzo) czas
 
